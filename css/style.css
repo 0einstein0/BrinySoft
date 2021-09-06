@@ -281,8 +281,8 @@ h2{
 }
 
 iframe{
-  width: 800px;
-  height: 400px;
+  width: 70%;
+  min-height: 300px;
   border-radius: 25px;
   box-shadow: 2px 2px 2px 2px #2626266b;
 }
