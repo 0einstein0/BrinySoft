@@ -1,0 +1,291 @@
+
+@font-face {
+  font-family: Montserrat;
+  src: url(https://fonts.googleapis.com/css?family=Montserrat:400,500,80);
+}
+
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+h1 {
+  font-weight: bolder;
+}
+.main {
+  background-image: url("../assets/landing-bg.gif");
+  background-size: cover;
+}
+.main1 {
+  padding-bottom: 20vh;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+.nav-light a,
+button {
+  color: #262626;
+}
+
+.service-btn {
+  border-color: #262626;
+  border-radius: 20px;
+  border-width: 2px;
+}
+
+.logo {
+  width: 200px;
+}
+
+.btn-primary {
+  border-color: transparent;
+  background-color: #2a7cc7;
+  border-radius: 20px;
+}
+.btn-outline-primary {
+  color: white;
+  border-color: white;
+  border-radius: 20px;
+}
+
+.services,
+.team,
+footer,
+.aboutmain,
+.employees,
+.lefthalf,
+.approach {
+  background-color: #262626;
+}
+
+.col {
+  border-radius: 20px;
+}
+
+.blue {
+  color: #2a7cc7;
+  font-weight: 900;
+}
+
+.about,
+#contact,
+.howwedoit,
+.ourstory,
+.whatwedo,
+.aboutEnd,
+.whoarewe,
+.servicemain,
+.righthalf,
+.chooseus {
+  background-color: #f1f1f1;
+}
+
+.services {
+  background-image: url("../assets/service-bg.png");
+  background-size: cover;
+}
+.about {
+  background-image: url("../assets/about-bg.png");
+  background-size: cover;
+}
+.howwedoit {
+  margin-top: -17px;
+  background-image: url("../assets/howWeDoIt-bg.png");
+  background-size: cover;
+  padding-bottom: 40px;
+}
+
+#contact {
+  background-image: url("../assets/contact-bg.png");
+}
+.team {
+  background-image: url("../assets/team-bg.png");
+}
+.card {
+  background-color: #262626;
+  border-radius: 10px;
+}
+
+.feature {
+  border-radius: 20px;
+}
+.wid {
+  width: 100%;
+}
+
+.card > p {
+  font-size: small;
+}
+
+footer p {
+  font-size: small;
+}
+
+.footer {
+  padding-left: 10%;
+}
+
+.socials {
+  padding-right: 6%;
+}
+
+p span {
+  display: block;
+}
+
+.contactcardblue {
+  background-color: #236cb1;
+  border-radius: 10px;
+  
+}
+.contactcard {
+  background-color: #262626;
+  border-radius: 10px;
+  
+}
+.hr {
+  color: white;
+}
+.logo2 {
+  width: 200px;
+}
+
+.btn-outline-secondary {
+  background-color: #236cb1;
+  color: white;
+  border: transparent;
+}
+
+.aboutmain {
+  background-image: url("../assets/aboutUs-bg.png");
+  background-size: cover;
+}
+
+.ourstory {
+  background-image: url("../assets/story-bg.png");
+}
+
+.ourstory div {
+  width: 66%;
+}
+
+.whatwedo {
+  margin-top: -17px;
+}
+
+.features,
+.emp p {
+  font-size: smaller;
+}
+
+.features h6 {
+  font-size: medium;
+  font-weight:600 ;
+}
+
+.employees {
+  background-image: url("../assets/emp-bg.png");
+}
+
+.empcard {
+  background-color: #303030;
+  border-color: transparent;
+}
+
+.emp-button {
+  background-color: #2a7cc7;
+  color: white;
+  width: 80%;
+}
+
+.tagline {
+  margin-left: 20%;
+}
+
+.aboutEnd {
+  background-image: url("../assets/about-bg2.png");
+}
+
+.mockup {
+  width: 90vh;
+}
+
+.lefthalf{
+  background-image: url("../assets/lefthalf.png");
+  
+}
+.lefthalf h1{
+  font-size: 13vh;
+}
+
+.serv2{
+  background-image: url("../assets/service-bg2.png");
+}
+
+.approach{
+  background-image: url("../assets/approach-bg.png");
+}
+
+.chooseus{
+  
+    background-image: url("../assets/portfolio-bg.png");
+ 
+  
+}
+
+.servicemain{
+  background-image: url("../assets/mockup.png");
+  
+  background-size: cover;
+}
+
+.navbar-toggler-icon{
+  color: #262626;
+}
+
+.teams p{
+  font-size: medium;
+}
+
+.ml12 {
+  font-weight: 200;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+.ml12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+.btn a{
+  text-decoration: none;
+  color: white;
+}
+
+h1 span, .space {
+  display: block;
+}
+
+h2{
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+#whoarewe h2{
+  font-size: 4.5rem;
+}
+
+iframe{
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 2px 2px #2626266b;
+}
+.maintenance img{
+  width: 60%;
+}
